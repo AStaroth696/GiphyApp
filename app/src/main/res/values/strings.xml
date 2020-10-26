@@ -2,6 +2,6 @@
     <string name="app_name">GiphyApp</string>
 
     <!-- Search -->
-    <string name="search_hint">Search</string>
+    <string name="search_hint" translatable="false">Search</string>
 
 </resources>

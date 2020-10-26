@@ -14,6 +14,8 @@ import kotlin.jvm.internal.Reflection
 
 abstract class BaseFragment<VM : BaseViewModel> : Fragment() {
 
+
+
     protected lateinit var viewModel: VM
     private val disposable = CompositeDisposable()
 
